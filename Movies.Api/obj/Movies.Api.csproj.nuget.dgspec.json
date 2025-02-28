@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj": {}
+    "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj": {}
   },
   "projects": {
-    "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj": {
+    "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj",
+        "projectUniqueName": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj",
         "projectName": "Movies.Api",
-        "projectPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj",
+        "projectPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\Movies.Api.csproj",
         "packagesPath": "C:\\Users\\RobbAndrew\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\obj\\",
+        "outputPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj": {
-                "projectPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj"
+              "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj": {
+                "projectPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj"
               },
-              "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj": {
-                "projectPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj"
+              "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj": {
+                "projectPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj": {
+    "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj",
+        "projectUniqueName": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj",
         "projectName": "Movies.Application",
-        "projectPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj",
+        "projectPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj",
         "packagesPath": "C:\\Users\\RobbAndrew\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\obj\\",
+        "outputPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -133,9 +133,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -158,14 +166,14 @@
         }
       }
     },
-    "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj": {
+    "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj",
+        "projectUniqueName": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj",
         "projectName": "Movies.Contracts",
-        "projectPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj",
+        "projectPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj",
         "packagesPath": "C:\\Users\\RobbAndrew\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\obj\\",
+        "outputPath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

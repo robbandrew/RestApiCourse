@@ -10,3 +10,16 @@ D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\D
 D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.pdb
 D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\ref\Movies.Application.dll
 D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.csproj.AssemblyReference.cache
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\bin\Debug\net9.0\Movies.Application.deps.json
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\bin\Debug\net9.0\Movies.Application.dll
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\bin\Debug\net9.0\Movies.Application.pdb
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.csproj.AssemblyReference.cache
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.AssemblyInfoInputs.cache
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.AssemblyInfo.cs
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.csproj.CoreCompileInputs.cache
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.sourcelink.json
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.dll
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\refint\Movies.Application.dll
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\Movies.Application.pdb
+D:\projects\Mine\ZeroToHeroRestApi\RestApiCourse\Movies.Application\obj\Debug\net9.0\ref\Movies.Application.dll

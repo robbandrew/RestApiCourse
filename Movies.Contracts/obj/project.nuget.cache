@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqtaIFgy6Nw=",
+  "dgSpecHash": "ilJfLXIJunY=",
   "success": true,
-  "projectFilePath": "D:\\projects\\Mine\\Blazor\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj",
+  "projectFilePath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Contracts\\Movies.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
