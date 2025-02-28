@@ -1,0 +1,11 @@
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\bin\Debug\net9.0\Movies.Contracts.deps.json
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\bin\Debug\net9.0\Movies.Contracts.dll
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\bin\Debug\net9.0\Movies.Contracts.pdb
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.AssemblyInfoInputs.cache
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.AssemblyInfo.cs
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.csproj.CoreCompileInputs.cache
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.dll
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\refint\Movies.Contracts.dll
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\Movies.Contracts.pdb
+D:\projects\Mine\Blazor\ZeroToHeroRestApi\RestApiCourse\Movies.Contracts\obj\Debug\net9.0\ref\Movies.Contracts.dll
