@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uZxchi8RWWQ=",
+  "dgSpecHash": "c3j9Vy4M0Xg=",
   "success": true,
   "projectFilePath": "D:\\projects\\Mine\\ZeroToHeroRestApi\\RestApiCourse\\Movies.Application\\Movies.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RobbAndrew\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\RobbAndrew\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\RobbAndrew\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\RobbAndrew\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
     "C:\\Users\\RobbAndrew\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\RobbAndrew\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
