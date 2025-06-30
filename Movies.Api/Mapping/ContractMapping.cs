@@ -16,7 +16,7 @@ public static class ContractMapping
             Id = Guid.NewGuid(),
         };
     }
-    
+
     public static Movie MapToMovie(this UpdateMovieRequest request, Guid id)
     {
         return new Movie
@@ -36,6 +36,8 @@ public static class ContractMapping
             Title = movie.Title,
             Slug = movie.Slug,
             YearOfRelease = movie.YearOfRelease,
+            Rating = movie.Rating,
+            UserRating = movie.UserRating,
             Genres = movie.Genres
         };
     }
@@ -46,5 +48,15 @@ public static class ContractMapping
         {
             Movies = movies.Select(MapToMovieResponse)
         };
+    }
+
+    public static IEnumerable<MovieRatingResponse> MapToResponse(this IEnumerable<MovieRating> movies)
+    {
+        return [.. movies.Select(i => new MovieRatingResponse
+        {
+            MovieId = i.MovieId,
+            Rating = i.Rating,
+            Slug = i.Slug
+        })];
     }
 }
